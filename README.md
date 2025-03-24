@@ -37,9 +37,11 @@ Each script can be executed independently. Example usage:
 python box_muller_algorithm.py 
 ```
 ## References
-- [Monte Carlo Methods in Python](https://en.wikipedia.org/wiki/Monte_Carlo_method)
+- [Monte Carlo Methods](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 - [Simulated Annealing Overview](https://en.wikipedia.org/wiki/Simulated_annealing)
 - [Metropolis-Hastings Algorithm](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm)
+- [Inverse Transform Sampling](https://en.wikipedia.org/wiki/Inverse_transform_sampling)
+- [Box Muller Algorithm](https://en.wikipedia.org/wiki/Box%E2%80%93Muller_transform)
 
 
 
